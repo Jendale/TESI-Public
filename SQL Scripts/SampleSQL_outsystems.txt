@@ -1,0 +1,4 @@
+﻿SELECT * FROM {Customers} a
+WHERE 
+    a.[customer]  = 1
+
